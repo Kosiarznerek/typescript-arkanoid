@@ -1,0 +1,575 @@
+{
+  "bloki": [
+    {
+      "typ": "BARIERKA_POZIOMA",
+      "pozycja": {
+        "x": 0,
+        "y": 0
+      },
+      "wysokosc": 22,
+      "szerokosc": 90
+    },
+    {
+      "typ": "BARIERKA_POZIOMA",
+      "pozycja": {
+        "x": 90,
+        "y": 0
+      },
+      "wysokosc": 22,
+      "szerokosc": 90
+    },
+    {
+      "typ": "BRAMA",
+      "pozycja": {
+        "x": 180,
+        "y": 0
+      },
+      "wysokosc": 22,
+      "szerokosc": 90
+    },
+    {
+      "typ": "BRAMA",
+      "pozycja": {
+        "x": 270,
+        "y": 0
+      },
+      "wysokosc": 22,
+      "szerokosc": 90
+    },
+    {
+      "typ": "BARIERKA_POZIOMA",
+      "pozycja": {
+        "x": 360,
+        "y": 0
+      },
+      "wysokosc": 22,
+      "szerokosc": 90
+    },
+    {
+      "typ": "BARIERKA_POZIOMA",
+      "pozycja": {
+        "x": 450,
+        "y": 0
+      },
+      "wysokosc": 22,
+      "szerokosc": 90
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 0,
+        "y": 22
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 0,
+        "y": 112
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 0,
+        "y": 202
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 0,
+        "y": 292
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 0,
+        "y": 382
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 0,
+        "y": 472
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 0,
+        "y": 562
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 518,
+        "y": 22
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 518,
+        "y": 112
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 518,
+        "y": 202
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 518,
+        "y": 292
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 518,
+        "y": 382
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 518,
+        "y": 472
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "BARIERKA_PIONOWA",
+      "pozycja": {
+        "x": 518,
+        "y": 562
+      },
+      "wysokosc": 90,
+      "szerokosc": 22
+    },
+    {
+      "typ": "T8",
+      "pozycja": {
+        "x": 59,
+        "y": 130
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T8",
+      "pozycja": {
+        "x": 101,
+        "y": 130
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T8",
+      "pozycja": {
+        "x": 143,
+        "y": 130
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T8",
+      "pozycja": {
+        "x": 185,
+        "y": 130
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T8",
+      "pozycja": {
+        "x": 227,
+        "y": 130
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T8",
+      "pozycja": {
+        "x": 269,
+        "y": 130
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T8",
+      "pozycja": {
+        "x": 311,
+        "y": 130
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T8",
+      "pozycja": {
+        "x": 353,
+        "y": 130
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T8",
+      "pozycja": {
+        "x": 395,
+        "y": 130
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T8",
+      "pozycja": {
+        "x": 437,
+        "y": 130
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T6",
+      "pozycja": {
+        "x": 59,
+        "y": 210
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T6",
+      "pozycja": {
+        "x": 101,
+        "y": 210
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T6",
+      "pozycja": {
+        "x": 143,
+        "y": 210
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T6",
+      "pozycja": {
+        "x": 185,
+        "y": 210
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T6",
+      "pozycja": {
+        "x": 227,
+        "y": 210
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T6",
+      "pozycja": {
+        "x": 269,
+        "y": 210
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T6",
+      "pozycja": {
+        "x": 311,
+        "y": 210
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T6",
+      "pozycja": {
+        "x": 353,
+        "y": 210
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T6",
+      "pozycja": {
+        "x": 395,
+        "y": 210
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T6",
+      "pozycja": {
+        "x": 437,
+        "y": 210
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T2",
+      "pozycja": {
+        "x": 59,
+        "y": 290
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T2",
+      "pozycja": {
+        "x": 101,
+        "y": 290
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T2",
+      "pozycja": {
+        "x": 143,
+        "y": 290
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T2",
+      "pozycja": {
+        "x": 185,
+        "y": 290
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T2",
+      "pozycja": {
+        "x": 227,
+        "y": 290
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T2",
+      "pozycja": {
+        "x": 269,
+        "y": 290
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T2",
+      "pozycja": {
+        "x": 311,
+        "y": 290
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T2",
+      "pozycja": {
+        "x": 353,
+        "y": 290
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T2",
+      "pozycja": {
+        "x": 395,
+        "y": 290
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T2",
+      "pozycja": {
+        "x": 437,
+        "y": 290
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T9",
+      "pozycja": {
+        "x": 59,
+        "y": 370
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T9",
+      "pozycja": {
+        "x": 101,
+        "y": 370
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T9",
+      "pozycja": {
+        "x": 143,
+        "y": 370
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T9",
+      "pozycja": {
+        "x": 185,
+        "y": 370
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T9",
+      "pozycja": {
+        "x": 227,
+        "y": 370
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T9",
+      "pozycja": {
+        "x": 269,
+        "y": 370
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T9",
+      "pozycja": {
+        "x": 311,
+        "y": 370
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T9",
+      "pozycja": {
+        "x": 353,
+        "y": 370
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T9",
+      "pozycja": {
+        "x": 395,
+        "y": 370
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "T9",
+      "pozycja": {
+        "x": 437,
+        "y": 370
+      },
+      "wysokosc": 20,
+      "szerokosc": 42
+    },
+    {
+      "typ": "KULKA",
+      "pozycja": {
+        "x": 250,
+        "y": 470
+      },
+      "wysokosc": 20,
+      "szerokosc": 20
+    }
+  ],
+  "paletka": {
+    "pozycja": {
+      "x": 188,
+      "y": 636
+    },
+    "wysokosc": 16,
+    "szerokosc": 64
+  },
+  "przeciwnicy": [
+    {
+      "x": 160,
+      "y": 80
+    },
+    {
+      "x": 300,
+      "y": 100
+    }
+  ],
+  "canvas": {
+    "wysokosc": 652,
+    "szerokosc": 540
+  }
+}
